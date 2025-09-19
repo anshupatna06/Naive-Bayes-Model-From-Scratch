@@ -26,7 +26,7 @@ Compute prior probability:
 
 
 
-$$P(y=c) = \frac{\#docs\ in\ class\ c}{\#total\ docs}$$
+P(y=c) = \frac{\#docs\ in\ class\ c}{\#total\ docs}
 
 $$P(word \mid class) = \frac{count(word\ in\ class) + 1}{total\ words\ in\ class + |V|}$$
 
