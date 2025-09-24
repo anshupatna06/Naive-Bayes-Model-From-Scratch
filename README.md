@@ -60,7 +60,11 @@ Achieved good accuracy on spam/ham dataset(~97%).
 
 Outputs accuracy, precision, recall, and F1-score.
 
-
+Visualizations🚀:-
+Class Distribution for ham and spam words.
+top 10 ham and spam words.
+word cloud for ham and spam words.
+confusion metrics.
 
 ---
 
